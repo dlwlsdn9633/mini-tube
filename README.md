@@ -6,6 +6,7 @@
 
 이를 기반으로 기말 프로젝트로 간단한 비디오 공유 사이트를 개발하여 제출했고, 99점이라는 높은 점수를 받을 수 있었습니다.
 
+
 <img width="633" alt="스프링" src="https://github.com/coldsteelpope/haancare_bot/assets/128117575/017864d5-91ec-43f5-ab42-0b0dd6e78848">
 
 ## 2. 설계
